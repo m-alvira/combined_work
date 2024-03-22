@@ -1,0 +1,19 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  font-style: italic;
+}
+p {
+  border: 3px solid powderblue;
+}
+p {
+  color: olive;
+}
+footer {
+  font-style: italic;
+  color: orangered;
+}
